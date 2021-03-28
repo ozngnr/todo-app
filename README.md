@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://ozngnr-button-component.netlify.app" target="_blank">
+    <a href="https://ozngnr-todo.netlify.app" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/hSBfk0aqMKTRdXUCRnQh">
+    <a href="https://devchallenges.io/solutions/z199KpuiALggJuJV6BCK" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">
+    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5" target="_blank">
       Challenge
     </a>
   </h3>
