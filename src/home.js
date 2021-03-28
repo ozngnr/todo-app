@@ -43,7 +43,6 @@ const Home = () => {
 
   useEffect(() => {
     localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(todos))
-    console.log(localStorage.getItem(LOCAL_STORAGE_KEY))
   }, [todos])
 
   useEffect(() => {
